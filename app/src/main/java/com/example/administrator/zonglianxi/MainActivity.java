@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity{
 
     private NotificationManager manager;
 //SDFDSFDSFSDFSDFSDFSDFSDFDSFDSSSSSSSSSSSSSFSDFSDFDSF
+    //哈哈哈
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
